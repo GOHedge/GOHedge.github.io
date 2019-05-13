@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "final copy of residents and fellows",
-    "currentPage": "home.html",
+    "currentPage": "ckd.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
         "file": "@PROJECT_PATH@/fonts/Helvetica/font.ttf"
       }
     ],
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rf-63x86.png",
@@ -1274,6 +1274,39 @@
         "order": 3
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H2": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle DIV": {
+              "color": "#232323"
+            },
+            "B": {
+              "color": "#000000"
+            },
+            "FONT": {
+              "color": "#000000"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><font color=\"#000000\"><b>Urethral Discharge.</b></font></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n<div><b style=\"font-size: 1.2rem;\">Work as a Team&nbsp;</b></div><div><span style=\"font-size: 1.2rem;\"><br></span></div><div><span style=\"font-size: 1.2rem;\">Source control is the place where your whole team works on code together. Xcode supports working directly with several collaboration platforms, including:&nbsp;</span><br></div><br><div><span style=\"font-size: 1.2rem;\"><b>GitHub and GitHub Enterprise</b>&nbsp;</span><br></div><div><br></div><div>Bitbucket Cloud and Bitbucket Server\n</div><div>GitLab.com and GitLab self-hosted\n</div><div>It's never been easier for your team to work together in the cloud or on self-hosted servers within your organization. To make your workflows easier and more secure, Xcode can even generate a unique SSH key for you and upload it to the server.\n</div><br><div><span style=\"font-size: 1.2rem;\"><b>Once logged:</b> in to your favorite service, the Xcode clone window shows all of your personal and saved repositories. From this window you can also search for additional repositories on your connected servers and quickly check any of them out with just a click. You can even rebase your changes when pulling latest versions.</span></div><div><span style=\"font-size: 1.2rem;\"><br></span></div><div><span style=\"font-size: 1.2rem;\">The source control navigator in Xcode makes it easy to view each of your branches, tags, and remotes with a timeline of commits. Inspect an entry to see all affected files or double-click on a commit to see everything that changed. Common operations, such as creating and merging branches, are quickly accessible in the navigator.</span><br></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content4-p",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rqlcqRXryb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
         {
           "alias": false,
           "_styles": {
