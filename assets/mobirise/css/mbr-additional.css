@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.1rem;
+  font-size: 1.4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.36rem;
+  font-size: 2.24rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.68rem;
-    font-size: calc( 1.385rem + (2.1 - 1.385) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.385rem + (2.1 - 1.385) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.28rem;
@@ -1456,13 +1456,13 @@ body {
   color: #000000;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -1553,7 +1553,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2139,13 +2139,13 @@ body {
   color: #000000;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -2236,7 +2236,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2615,13 +2615,13 @@ body {
   color: #cccccc;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -2712,7 +2712,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3133,13 +3133,13 @@ body {
   color: #cccccc;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -3230,7 +3230,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3651,13 +3651,13 @@ body {
   color: #cccccc;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -3748,7 +3748,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4181,13 +4181,13 @@ body {
   color: #cccccc;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -4278,7 +4278,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -5673,13 +5673,13 @@ body {
   color: #7d7f80;
 }
 .cid-rpqX5qHtrc .navbar {
-  background: #000000;
+  background: #293436;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rpqX5qHtrc .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #293436;
 }
 .cid-rpqX5qHtrc a {
   font-style: normal;
@@ -5770,7 +5770,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpqX5qHtrc .dropdown .dropdown-menu {
-  background: #000000;
+  background: #293436;
   display: none;
   position: absolute;
   min-width: 5rem;
